@@ -1,0 +1,2 @@
+insert into dias (nombre_dia_id,horario_id)
+values (1,1);
