@@ -31,3 +31,7 @@ create Table Autores(
     id_labor_cientifica INT,
     id_cientifico int
 );
+create table LaborCientifica(
+    id INTEGER not null PRIMARY key,
+    titulo varchar(255)
+);
