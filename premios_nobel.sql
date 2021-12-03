@@ -17,4 +17,9 @@ create table Certamen(
     anho DATETIME YEAR,
     id_genero INT,
     id_labor_cientifica INT
-)
+);
+
+create table Premio(
+    id INTEGER NOT NULL PRIMARY KEY,
+    nombre VARCHAR(255)
+);
