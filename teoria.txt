@@ -1,0 +1,29 @@
+1.- ¿Que es una base de datos?
+	Es un conjunto de informacion que esta relacionada entre si y se almacena para hacer consltas sobre ella.
+3.- ¿Cual es la diferencia entre un diagrama relacional y uno entidad relación?
+    El diagrama relacional es una base de datos, mientras que la entidad relación es un dato.
+4.- ¿Cual es la estructura más habitual para organizar la información de una consulta?
+    select [campos que quieras]
+    from [nombre de la tabla]
+    order by [campo] 
+5.- ¿Con que otro nombre se conoce a los atributos de una entidad?
+a
+6.- Si tenemos 2 tablas con datos que suponemos relacionados, ¿Que 2 limitaciones tenemos para poder crear una ForeignKey? (Marca la más correcta)
+d
+7.- ¿Que tipo de dato se podría usar para el nombre?
+d 
+8.- ¿Que tipo de dato se podría usar para la gotBarba?
+d 
+9.- ¿Que tipo de dato se usaría para el peso?
+b 
+10.- Define JOIN
+    Es un tipo de ejecución que sirve para unir dos tablas diferentes que tengas campos en comun o que se pueden relacionar.
+11.- En los tipos de Relación ¿Cual es erronea?
+d 
+12.- ¿Que es una entidad? 
+    Es un dato con caracter propio que contiene información.
+13.- En una base de datos de peliculas, ¿Que tipo de relación tendría el director de una pelicula con la pelicula?
+c 
+14.- En una base de datos de jugadores de futbol ¿Que tipo de relación existe entre el Partido y los jugadores?
+
+
