@@ -23,3 +23,7 @@ create table Premio(
     id INTEGER NOT NULL PRIMARY KEY,
     nombre VARCHAR(255)
 );
+CREATE Table mn_Cientifico_CampoCientifico(
+    id_cientifico int,
+    id_campo_cientifico
+)
