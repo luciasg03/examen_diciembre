@@ -1,2 +1,42 @@
+------------INSERTAR DATOS EN DIAS--------
+
 insert into dias (nombre_dia_id,horario_id)
 values (1,1);
+insert into dias (nombre_dia_id,horario_id)
+values (2,2);
+insert into dias (nombre_dia_id,horario_id)
+values (3,3);
+insert into dias (nombre_dia_id,horario_id)
+values (4,4);
+insert into dias (nombre_dia_id,horario_id)
+values (5,5);
+
+-------------INSERTAR DATOS EN HORARIOS----------
+
+insert into horarios (horario_id,nombre,hora_de_inicio,hora_de_finalizacion)
+values (1,'Lunes','9:00','14:00');
+insert into horarios (horario_id,nombre,hora_de_inicio,hora_de_finalizacion)
+values (2,'Martes','9:00','14:00');
+insert into horarios (horario_id,nombre,hora_de_inicio,hora_de_finalizacion)
+values (3,'Miercoles','9:00','14:00');
+insert into horarios (horario_id,nombre,hora_de_inicio,hora_de_finalizacion)
+values (4,'Jueves','9:00','14:00');
+insert into horarios (horario_id,nombre,hora_de_inicio,hora_de_finalizacion)
+values (5,'Viernes','9:00','14:00');
+
+--------------INSERTAR DATOS EN NOMBRE_DIAS---------
+
+insert into nombre_dias (nombre_dia_id,nombre)
+values (1,'Lunes');
+insert into nombre_dias (nombre_dia_id,nombre)
+values (2,'Martes');
+insert into nombre_dias (nombre_dia_id,nombre)
+values (3,'Miercoles');
+insert into nombre_dias (nombre_dia_id,nombre)
+values (4,'Jueves');
+insert into nombre_dias (nombre_dia_id,nombre)
+values (5,'Viernes');
+
+-------------INSERTAR DATOS EN TAREAS-----------------
+INSERT into tareas (tarea_id,nombre,fecha_de_inicio,fecha_de_finalizacion,duracion,descripcion,finalizada,horario_id)
+values (1,'limpieza','01/01/2021','31/12/2021',2000,'limpia',1,1);
