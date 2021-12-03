@@ -25,5 +25,6 @@ d
 13.- En una base de datos de peliculas, ¿Que tipo de relación tendría el director de una pelicula con la pelicula?
 c 
 14.- En una base de datos de jugadores de futbol ¿Que tipo de relación existe entre el Partido y los jugadores?
+d 
 
 
