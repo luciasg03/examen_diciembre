@@ -35,3 +35,9 @@ create table LaborCientifica(
     id INTEGER not null PRIMARY key,
     titulo varchar(255)
 );
+create Table CampoCientifico(
+    id INTEGER not NULL PRIMARY key,
+    nombre VARCHAR(255),
+    id_rama_ciencia INT,
+    tienePremio boolean
+);
