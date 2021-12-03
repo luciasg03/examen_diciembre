@@ -41,3 +41,7 @@ create Table CampoCientifico(
     id_rama_ciencia INT,
     tienePremio boolean
 );
+create table RamaCiencia(
+    id INTEGER not null PRIMARY key,
+    nombre VARCHAR(255)
+)
