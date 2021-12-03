@@ -28,4 +28,5 @@ c
 d 
 16.- Si quisieramos cambiar la estructura de una tabla de la base de datos ¿Que tipo de consulta se debería hacer?
 c
-
+17.- En una base de datos de Recetas de cócina ¿Cual sería la relación entre los platos de comida y los alergenos?
+c
