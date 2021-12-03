@@ -30,3 +30,5 @@ d
 c
 17.- En una base de datos de Recetas de cócina ¿Cual sería la relación entre los platos de comida y los alergenos?
 c
+18.- Si quisieramos borrar una entrada de una tabla de la base de datos ¿Que tipo de consulta deberiamos hacer?
+d
