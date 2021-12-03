@@ -5,7 +5,7 @@
 4.- ¿Cual es la estructura más habitual para organizar la información de una consulta?
     select [campos que quieras]
     from [nombre de la tabla]
-    order by [campo] 
+    order by [campo] [tipo de forma de ordenar];
 5.- ¿Con que otro nombre se conoce a los atributos de una entidad?
 a
 6.- Si tenemos 2 tablas con datos que suponemos relacionados, ¿Que 2 limitaciones tenemos para poder crear una ForeignKey? (Marca la más correcta)
@@ -26,5 +26,6 @@ d
 c 
 14.- En una base de datos de jugadores de futbol ¿Que tipo de relación existe entre el Partido y los jugadores?
 d 
-
+16.- Si quisieramos cambiar la estructura de una tabla de la base de datos ¿Que tipo de consulta se debería hacer?
+c
 
