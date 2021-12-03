@@ -26,4 +26,8 @@ create table Premio(
 CREATE Table mn_Cientifico_CampoCientifico(
     id_cientifico int,
     id_campo_cientifico
-)
+);
+create Table Autores(
+    id_labor_cientifica INT,
+    id_cientifico int
+);
